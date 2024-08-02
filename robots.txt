@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rantounfu.github.io/sitemap.html.gz
+Sitemap: https://rantounfu.github.io/app/sitemap.html.gz
+Sitemap: https://rantounfu.github.io/assets/sitemap.html.gz
+Sitemap: https://rantounfu.github.io/css/sitemap.html.gz
+Sitemap: https://rantounfu.github.io/includes/sitemap.html.gz
+Sitemap: https://rantounfu.github.io/item/sitemap.html.gz
+Sitemap: https://rantounfu.github.io/src/sitemap.html.gz
